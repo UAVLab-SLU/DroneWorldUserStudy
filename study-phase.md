@@ -43,7 +43,7 @@ Throughout each phase, we employ a think-aloud protocol, which encourages partic
 - Extremely helpful - The graphical presentation of flight paths was extremely effective in helping me to better interpret the simulation results.
 
 - **In your opinion, how did our method of checking if the requirements were met compare to how you usually test for issues in general or specifically during simulation testing?**
-    - Only asked if they have prior CPS development.
+   
   
 - **What new features or improvements could we add to the web app to make it easier and more effective for you? Please provide any suggestions or feedback you may have.**
     - 
