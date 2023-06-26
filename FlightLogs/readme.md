@@ -12,11 +12,11 @@
 | **Environment Configuration Parameters** |                                             |
 |----------------------------------------|---------------------------------------------|
 | Weather                                | (wind=15mph, 0 < ALT < 400ft AGL)           |
-| Signal                                 | (RadioInterference=Light)                    |
+| Signal                                 | (RadioInterference=Light) AND (Satellites=15, GPSDeadSpots:None)                  |
 
 | **sUAS Configuration Parameters**      |                                             |
 |----------------------------------------|---------------------------------------------|
-| Location                               | (Region=BEACH*)                             |
+| Location                               | (Region=Michigan City BEACH)                             |
 
 | **Monitors Configurations Parameters** |                                             |
 |----------------------------------------|---------------------------------------------|
