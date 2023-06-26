@@ -1,0 +1,10 @@
+18:37:34: Drone1 taking off
+18:37:34: Drone1 heading: (0, 0, -8)
+18:37:38: Drone1 heading: (8, 0, -8)
+18:37:42: Drone1 heading: (8, 8, -8)
+18:37:46: Drone1 heading: (-8, 8, -8)
+18:37:52: Drone1 heading: (-8, -8, -8)
+18:37:59: Drone1 heading: (8, -8, -8)
+18:38:05: Drone1 heading: (8, 0, -8)
+18:38:09: Drone1 heading: (0, 0, -8)
+18:38:13: task over

@@ -1,0 +1,3 @@
+18:41:30: Drone3 taking off
+18:41:30: Drone3 heading: [20, 0, -4]
+18:41:53: task over

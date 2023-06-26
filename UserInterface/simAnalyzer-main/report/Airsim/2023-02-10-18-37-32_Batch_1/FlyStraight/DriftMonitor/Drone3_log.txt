@@ -1,0 +1,2 @@
+18:38:00: Drone3 reached target location [20, 0, -4] within 1Meters. 
+Closest distance: 0.49711094819070595 meters

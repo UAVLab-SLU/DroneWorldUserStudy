@@ -1,0 +1,6 @@
+18:40:10: Register drone location every 0.05 seconds
+18:40:47: Mission task finished
+18:40:47: optimal distance: 85.71908763914433
+18:40:47: actual distance: 93.59479883197818
+18:40:47: Deviation rate: 8.41468894759031 %
+18:40:47: Graph saved to C:\Users\Aiden\Documents\AirSim\2023-02-10-18-40-08_Batch_2\FlyToPoints\PointDeviationMonitor

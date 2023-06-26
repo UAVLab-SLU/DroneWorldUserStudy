@@ -1,0 +1,10 @@
+18:37:34: OrderedWaypointMonitor started, monitoring Drone1
+18:37:38: Drone1 reached (0, 0, -8) within 1 meter(s)
+18:37:41: Drone1 reached (8, 0, -8) within 1 meter(s)
+18:37:45: Drone1 reached (8, 8, -8) within 1 meter(s)
+18:37:52: Drone1 reached (-8, 8, -8) within 1 meter(s)
+18:37:59: Drone1 reached (-8, -8, -8) within 1 meter(s)
+18:38:05: Drone1 reached (8, -8, -8) within 1 meter(s)
+18:38:09: Drone1 reached (8, 0, -8) within 1 meter(s)
+18:38:13: Drone1 reached (0, 0, -8) within 1 meter(s)
+18:38:13: All points reached in order by Drone1

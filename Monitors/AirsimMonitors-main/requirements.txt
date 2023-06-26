@@ -1,0 +1,9 @@
+msgpack-rpc-python
+numpy
+pyaudio
+opencv-contrib-python
+matplotlib
+flask
+flask_cors
+scipy
+plotly_express
