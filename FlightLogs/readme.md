@@ -1,41 +1,33 @@
 # Scenario
 
-| Example Requirements Under Test      |                                                                     |
-|--------------------------------------|---------------------------------------------------------------------|
-| Req ID                               | RQ-034: sUAS must complete missions successfully at wind speeds of 15mph. |
-| Req ID                               | RQ-035: No sUAS shall enter airspace marked as a no-fly zone.        |
-|                                      |                                                                     |
-| Test Description                     |                                                                     |
-|--------------------------------------|---------------------------------------------------------------------|
-| Test Description                     | TST-0023: sUAS are deployed in a search and rescue activity at the beach |
-|                                      |                                                                     |
-| Environment Configuration Parameters |                                                                     |
-|--------------------------------------|---------------------------------------------------------------------|
-| Weather                              |                                                                     |
-|                                      | (wind=15mph, 0 < ALT < 400ft AGL)                                   |
-|                                      | (precipitation=none, clouds=none)                                   |
-|                                      | (timeOfDay=Midday)                                                  |
-| Signal                               |                                                                     |
-|                                      | (RadioInterference=Light)                                           |
-|                                      | (Satellites=15, GPSDeadSpots:None)                                  |
-|                                      |                                                                     |
-| sUAS Configuration Parameters        |                                                                     |
-|--------------------------------------|---------------------------------------------------------------------|
-| Location                             |                                                                     |
-|                                      | (Region=BEACH*)                                                     |
-|                                      | (Central Point=(XX.XXXXXX,XX.XXXXXX))                               |
-|                                      |                                                                     |
-| Monitors Configurations Parameters   |                                                                     |
-|--------------------------------------|---------------------------------------------------------------------|
-| Mission Props                        |                                                                     |
-|                                      | C2.1 No Fly Zone = Beach Area                                       |
-|                                      | C2.2 Safe Landing Spots = Anywhere on Ground except water.          |
-|                                      | C2.3 Drift < 10% when Wind >= 23mph.                                |
-|                                      |                                                                     |
-| DSuT Flights                         |                                                                     |
-|--------------------------------------|---------------------------------------------------------------------|
-| Test 1:                              |                                                                     |
-|                                      | (BEACH-1.flt) Four sUAS deployed for search
+| **Example Requirements Under Test**    |                                             |
+|----------------------------------------|---------------------------------------------|
+| Req ID RQ-034                          | sUAS must complete missions successfully at wind speeds of 15mph. |
+| Req ID RQ-035                          | No sUAS shall enter airspace marked as a no-fly zone. |
+
+| **Test Description**                   |                                             |
+|----------------------------------------|---------------------------------------------|
+| Test Description                       | TST-0023: sUAS deployed in a search and rescue activity at the beach |
+
+| **Environment Configuration Parameters** |                                             |
+|----------------------------------------|---------------------------------------------|
+| Weather                                | (wind=15mph, 0 < ALT < 400ft AGL)           |
+| Signal                                 | (RadioInterference=Light)                    |
+
+| **sUAS Configuration Parameters**      |                                             |
+|----------------------------------------|---------------------------------------------|
+| Location                               | (Region=BEACH*)                             |
+
+| **Monitors Configurations Parameters** |                                             |
+|----------------------------------------|---------------------------------------------|
+| Mission Props                          | C2.1 No Fly Zone = Beach Area                |
+|                                        | C2.2 Safe Landing Spots = Anywhere on Ground except water. |
+|                                        | C2.3 Drift < 10% when Wind >= 23mph.         |
+
+| **DSuT Flights**                       |                                             |
+|----------------------------------------|---------------------------------------------|
+| Test 1:                                | Four sUAS deployed for search and rescue. They fly over the water and the dunes to search for the lost child. Simulation lasts 20 minutes. |
+
 
 
 
